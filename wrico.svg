@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="662.97041"
-     inkscape:cy="2439.2941"
+     inkscape:zoom="0.98994952"
+     inkscape:cx="586.53035"
+     inkscape:cy="2530.1534"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -98,8 +98,8 @@
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
        xlink:href="scans/wrico-uc.png"
-       y="-2023.5392"
-       x="-1551.3353"
+       y="-2023.53"
+       x="-1561.9395"
        id="image990"
        preserveAspectRatio="none"
        height="1064.2802"
@@ -146,5 +146,39 @@
        id="path4528"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4532"
+       sodipodi:type="arc"
+       sodipodi:cx="896"
+       sodipodi:cy="608"
+       sodipodi:rx="160"
+       sodipodi:ry="160"
+       sodipodi:start="4.712389"
+       sodipodi:end="1.5707963"
+       d="M 896,448 A 160,160 0 0 1 1056,608 160,160 0 0 1 896,768"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4534"
+       sodipodi:type="arc"
+       sodipodi:cx="880"
+       sodipodi:cy="304"
+       sodipodi:rx="144"
+       sodipodi:ry="144"
+       sodipodi:start="4.712389"
+       sodipodi:end="1.5707963"
+       sodipodi:open="true"
+       d="M 880,160 A 144,144 0 0 1 1024,304 144,144 0 0 1 880,448" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 880,160 H 688 v 608 h 208"
+       id="path4536"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 688,448 H 896"
+       id="path4538"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
