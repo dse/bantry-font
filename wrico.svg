@@ -211,5 +211,22 @@
        cx="3197.1021"
        id="circle4548"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4550"
+       sodipodi:type="arc"
+       sodipodi:cx="1776"
+       sodipodi:cy="464"
+       sodipodi:rx="304"
+       sodipodi:ry="304"
+       sodipodi:start="4.712389"
+       sodipodi:end="1.5707963"
+       sodipodi:open="true"
+       d="m 1776,160 a 304,304 0 0 1 304,304 304,304 0 0 1 -304,304" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1776,160 h -112 v 608 h 112"
+       id="path4552"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
