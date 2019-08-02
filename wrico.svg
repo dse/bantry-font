@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="4604.6589"
-     inkscape:cy="1401.4043"
+     inkscape:zoom="1.4"
+     inkscape:cx="899.90789"
+     inkscape:cy="523.31543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,7 +52,7 @@
        empcolor="#000000"
        empopacity="0.2509803922"
        originx="0"
-       originy="0" />
+       originy="256" />
     <inkscape:grid
        type="xygrid"
        id="grid2987"
@@ -66,16 +66,15 @@
        originy="0" />
     <inkscape:grid
        type="xygrid"
-       id="grid2989"
-       empspacing="32"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4"
-       spacingy="4"
-       dotted="true"
-       originx="0"
-       originy="0" />
+       id="grid4522"
+       originy="864"
+       spacingx="12800"
+       spacingy="1024"
+       color="#000000"
+       opacity="0.50196078"
+       empcolor="#000000"
+       empopacity="0.50196078"
+       empspacing="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -85,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,36 +92,41 @@
      inkscape:label="Scans"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,2019.637817382812)">
-    <image
-       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-lc.png"
-       xlink:href="scans/wrico-lc.png"
-       y="-2099.0825"
-       x="-939.00934"
-       id="image928"
-       preserveAspectRatio="none"
-       height="1064.2802"
-       width="14349.653"
-       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
+     transform="translate(0,2019.6378)"
+     style="opacity:0.25">
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
        xlink:href="scans/wrico-uc.png"
-       y="-1034.8025"
-       x="-2184.9814"
+       y="-2023.5171"
+       x="-1577.0436"
        id="image990"
        preserveAspectRatio="none"
        height="1064.2802"
        width="14312.106"
-       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
+       transform="matrix(0.99999966,8.2806808e-4,-0.27330782,0.96192663,0,0)" />
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-numbers.png"
        xlink:href="scans/wrico-numbers.png"
-       y="29.477842"
-       x="4139.8203"
+       y="52.700829"
+       x="-1279.0343"
        id="image1052"
        preserveAspectRatio="none"
        height="1064.2802"
        width="7277.2266"
-       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
+       transform="matrix(0.99999913,0.00132272,-0.2737836,0.96179132,0,0)" />
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-lc.png"
+       xlink:href="scans/wrico-lc.png"
+       y="-1027.8563"
+       x="-3216.906"
+       id="image928"
+       preserveAspectRatio="none"
+       height="1064.2802"
+       width="14349.653"
+       transform="matrix(0.99999905,0.00137654,-0.27383538,0.96177658,0,0)" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Lettering" />
 </svg>
