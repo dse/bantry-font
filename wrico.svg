@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994952"
-     inkscape:cx="586.53035"
-     inkscape:cy="2530.1534"
+     inkscape:cx="1391.0837"
+     inkscape:cy="2696.2026"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -76,6 +76,13 @@
        empcolor="#000000"
        empopacity="0.50196078"
        empspacing="1" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4540"
+       spacingx="4"
+       spacingy="4"
+       empspacing="32"
+       dotted="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -98,8 +105,8 @@
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
        xlink:href="scans/wrico-uc.png"
-       y="-2023.53"
-       x="-1561.9395"
+       y="-2019.0732"
+       x="-1563.5785"
        id="image990"
        preserveAspectRatio="none"
        height="1064.2802"
@@ -180,5 +187,29 @@
        d="M 688,448 H 896"
        id="path4538"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4544"
+       sodipodi:type="arc"
+       sodipodi:cx="1396"
+       sodipodi:cy="464"
+       sodipodi:rx="308"
+       sodipodi:ry="308"
+       sodipodi:start="0.78539816"
+       sodipodi:end="5.2359878"
+       sodipodi:open="true"
+       d="M 1613.7889,681.78889 A 308,308 0 0 1 1198.0214,699.94169 308,308 0 0 1 1143.7012,287.33845 308,308 0 0 1 1550,197.26418" />
+    <circle
+       r="308"
+       cy="464"
+       cx="6597.2754"
+       id="circle4546"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="308"
+       cy="464"
+       cx="3197.1021"
+       id="circle4548"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
