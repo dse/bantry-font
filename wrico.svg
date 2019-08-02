@@ -1,25 +1,128 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16384" height="3072" id="svg2" version="1.1" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="wrico.svg">
-  <defs id="defs4" />
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.12374369" inkscape:cx="5917.8572" inkscape:cy="1401.4043" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" inkscape:window-width="1366" inkscape:window-height="724" inkscape:window-x="0" inkscape:window-y="12" inkscape:window-maximized="0" inkscape:object-paths="true" inkscape:object-nodes="true">
-    <inkscape:grid type="xygrid" id="grid2985" empspacing="1" visible="true" enabled="true" snapvisiblegridlinesonly="true" spacingx="1024" spacingy="1024" color="#000000" opacity="0.1254901961" empcolor="#000000" empopacity="0.2509803922" originx="0" originy="0" />
-    <inkscape:grid type="xygrid" id="grid2987" empspacing="8" visible="true" enabled="true" snapvisiblegridlinesonly="true" spacingx="16" spacingy="16" originx="0" originy="0" />
-    <inkscape:grid type="xygrid" id="grid2989" empspacing="32" visible="true" enabled="true" snapvisiblegridlinesonly="true" spacingx="4" spacingy="4" dotted="true" originx="0" originy="0" />
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16384"
+   height="3072"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="wrico.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="4604.6589"
+     inkscape:cy="1401.4043"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1024"
+       spacingy="1024"
+       color="#000000"
+       opacity="0.1254901961"
+       empcolor="#000000"
+       empopacity="0.2509803922"
+       originx="0"
+       originy="0" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16"
+       spacingy="16"
+       originx="0"
+       originy="0" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2989"
+       empspacing="32"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="4"
+       spacingy="4"
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
-  <metadata id="metadata7">
+  <metadata
+     id="metadata7">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,2019.637817382812)">
-    <image sodipodi:absref="/Users/dse/git/dse.d/fonts.d/bantry-font/scans/wrico-lc.png" xlink:href="scans/wrico-lc.png" transform="matrix(1,0,-0.27251119,0.96215261,0,0)" width="14349.653" height="1064.2802" preserveAspectRatio="none" id="image928" x="-939.00934" y="-2099.0825" />
-    <image sodipodi:absref="/Users/dse/git/dse.d/fonts.d/bantry-font/scans/wrico-uc.png" xlink:href="scans/wrico-uc.png" transform="matrix(1,0,-0.27251119,0.96215261,0,0)" width="14312.106" height="1064.2802" preserveAspectRatio="none" id="image990" x="-2184.9814" y="-1034.8025" />
-    <image sodipodi:absref="/Users/dse/git/dse.d/fonts.d/bantry-font/scans/wrico-numbers.png" xlink:href="scans/wrico-numbers.png" transform="matrix(1,0,-0.27251119,0.96215261,0,0)" width="7277.2266" height="1064.2802" preserveAspectRatio="none" id="image1052" x="4139.8203" y="29.477842" />
+  <g
+     inkscape:label="Scans"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2019.637817382812)">
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-lc.png"
+       xlink:href="scans/wrico-lc.png"
+       y="-2099.0825"
+       x="-939.00934"
+       id="image928"
+       preserveAspectRatio="none"
+       height="1064.2802"
+       width="14349.653"
+       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
+       xlink:href="scans/wrico-uc.png"
+       y="-1034.8025"
+       x="-2184.9814"
+       id="image990"
+       preserveAspectRatio="none"
+       height="1064.2802"
+       width="14312.106"
+       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-numbers.png"
+       xlink:href="scans/wrico-numbers.png"
+       y="29.477842"
+       x="4139.8203"
+       id="image1052"
+       preserveAspectRatio="none"
+       height="1064.2802"
+       width="7277.2266"
+       transform="matrix(1,0,-0.27251119,0.96215261,0,0)" />
   </g>
 </svg>
