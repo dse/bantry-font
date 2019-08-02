@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16384"
@@ -25,18 +26,69 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.061871843"
-     inkscape:cx="6995.6821"
-     inkscape:cy="1624.1212"
+     inkscape:zoom="0.175"
+     inkscape:cx="3227.7131"
+     inkscape:cy="1102.2716"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       spacingx="33.866667"
+       spacingy="33.866667"
+       empspacing="8"
+       dotted="false"
+       type="xygrid"
+       id="grid4551" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4555"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empspacing="8"
+       dotted="true"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empcolor="#3f3fff"
+       empopacity="0.10980392" />
+    <sodipodi:guide
+       position="0,50.799998"
+       orientation="0,1"
+       id="guide4557"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,220.13333"
+       orientation="0,1"
+       id="guide4559"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,321.73333"
+       orientation="0,1"
+       id="guide4561"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,491.06666"
+       orientation="0,1"
+       id="guide4563"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,762"
+       orientation="0,1"
+       id="guide4565"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,592.66666"
+       orientation="0,1"
+       id="guide4567"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,5 +105,33 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,515.80002)" />
+     transform="translate(0,515.80002)">
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-lc.png"
+       xlink:href="scans/wrico-lc.png"
+       width="2709.3333"
+       height="270.93332"
+       preserveAspectRatio="none"
+       id="image4577"
+       x="0"
+       y="-244.86667" />
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-numbers.png"
+       xlink:href="scans/wrico-numbers.png"
+       width="1625.6"
+       height="270.93332"
+       preserveAspectRatio="none"
+       id="image4588"
+       x="4.0414066e-05"
+       y="26.066641" />
+    <image
+       sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
+       xlink:href="scans/wrico-uc.png"
+       width="3793.0669"
+       height="270.93332"
+       preserveAspectRatio="none"
+       id="image4599"
+       x="1.4210855e-14"
+       y="-515.79999" />
+  </g>
 </svg>
