@@ -109,29 +109,32 @@
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-lc.png"
        xlink:href="scans/wrico-lc.png"
+       transform="matrix(1,0,-0.25881905,0.96592583,0,0)"
        width="2709.3333"
-       height="270.93332"
+       height="280.49081"
        preserveAspectRatio="none"
        id="image4577"
-       x="0"
-       y="-244.86667" />
+       x="-29.313644"
+       y="-253.50462" />
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-numbers.png"
        xlink:href="scans/wrico-numbers.png"
+       transform="matrix(1,0,-0.25881905,0.96592583,0,0)"
        width="1625.6"
-       height="270.93332"
+       height="280.49081"
        preserveAspectRatio="none"
        id="image4588"
-       x="4.0414066e-05"
-       y="26.066641" />
+       x="43.282757"
+       y="26.986172" />
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
        xlink:href="scans/wrico-uc.png"
+       transform="matrix(1,0,-0.25881905,0.96592583,0,0)"
        width="3793.0669"
-       height="270.93332"
+       height="280.49081"
        preserveAspectRatio="none"
        id="image4599"
-       x="1.4210855e-14"
-       y="-515.79999" />
+       x="-101.91001"
+       y="-533.99542" />
   </g>
 </svg>
