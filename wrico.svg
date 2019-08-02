@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994952"
-     inkscape:cx="1391.0837"
-     inkscape:cy="2696.2026"
+     inkscape:cx="2305.2718"
+     inkscape:cy="2689.1315"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -105,8 +105,8 @@
     <image
        sodipodi:absref="C:\cygwin64\home\501475791\git\dse.d\bantry-font\scans/wrico-uc.png"
        xlink:href="scans/wrico-uc.png"
-       y="-2019.0732"
-       x="-1563.5785"
+       y="-2019.0724"
+       x="-1564.5884"
        id="image990"
        preserveAspectRatio="none"
        height="1064.2802"
@@ -227,6 +227,16 @@
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1776,160 h -112 v 608 h 112"
        id="path4552"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2480,160 h -352 v 608 h 368"
+       id="path4556"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2128,448 h 208"
+       id="path4558"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
